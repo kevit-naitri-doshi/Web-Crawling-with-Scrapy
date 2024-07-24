@@ -45,8 +45,8 @@ class MySpider(CrawlSpider):
                 self.seen_links.add(full_url)
                 item = Links()
                 item['link'] = full_url
-                # yield item
-                yield write_file(f'{PROJECT_NAME}/urls.json',item)
+                yield item
+
 
 
     
