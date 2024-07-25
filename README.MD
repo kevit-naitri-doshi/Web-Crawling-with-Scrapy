@@ -23,7 +23,7 @@ The project creates a directory named after the project and stores the URLs in a
    Clone the repository to your local machine.
 
    ```bash
-   git clone https://github.com/kevit-naitri-doshi/Web-Crawling-with-Scrapy.git
+   git clone https://github.com/naitridoshi/Web-Crawling-with-Scrapy.git
    ```
 
 2. **Install the Required Packages**
